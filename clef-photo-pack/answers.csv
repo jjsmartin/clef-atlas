@@ -1,0 +1,11 @@
+round,filename,country,country_key,city,latitude,longitude,difficulty
+round-01,images/round-01.jpg,Portugal,portugal,Lisbon,38.708989,-9.139425,easy
+round-02,images/round-02.jpg,Japan,japan,Kyoto,35.005463,135.774505,medium
+round-03,images/round-03.jpg,South Africa,south_africa,Cape Town,-33.920814,18.414411,medium
+round-04,images/round-04.jpg,Morocco,morocco,Marrakech,31.63029,-7.986658,hard
+round-05,images/round-05.jpg,Thailand,thailand,Bangkok,13.741603,100.507944,medium
+round-06,images/round-06.jpg,India,india,Jaipur,26.9257,75.813714,easy
+round-07,images/round-07.jpg,Mexico,mexico,León,21.122039,-101.681869,hard
+round-08,images/round-08.jpg,New Zealand,new_zealand,Wellington,-41.290371,174.77736,hard
+round-09,images/round-09.jpg,France,france,Paris,48.87948,2.325482,medium
+round-10,images/round-10.jpg,Italy,italy,Rome,41.902591,12.471301,easy
